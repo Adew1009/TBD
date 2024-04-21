@@ -1,0 +1,1 @@
+This is a place holder for the frontend.  I plan on making a react shell to test session authenitcation from the backend I created. It looks like there are a few differences that will be required in the front end. 
