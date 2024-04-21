@@ -1,7 +1,8 @@
 
-To Demo the backend
+To Demo the backend:
+
 -Copy the repository
--Createl local database
+-Create local PostgreSQL database
 - . .venv/bin/activate      to activate virtual enviroment
 - pip install -r requirements.txt
 - python manage.py makemigrations
